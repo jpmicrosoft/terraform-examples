@@ -1,7 +1,7 @@
 # For Resource Names - Changing this forces a new resource to be created.
 variable "environment" {
   description = "The Environment where the infrastructure will be deployed."
-  default     = "n"
+  default     = "np"
 }
 
 # General
