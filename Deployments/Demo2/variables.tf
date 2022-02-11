@@ -68,5 +68,24 @@ locals {
   delegation_synapse_workspaces                    = "Microsoft.Synapse/workspaces"
   delegation_web_hostingenvironments               = "Microsoft.Web/hostingEnvironments"
   delegation_web_serverfarms                       = "Microsoft.Web/serverFarms"
+}
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+locals {
+  Thank_You = "1N73LL1G3NC3 15 7H3 4B1L17Y 70 4D4P7 70 CH4NG3. -573PH3N H4WK1NG"
 }
